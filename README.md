@@ -1,4 +1,4 @@
-# Hello! I'm Solar :D [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solar.seoyeon@gmail.com)](solar.seoyeon@gmail.com)
+# Hello! I'm Solar :D
 
 I aspire to grow as an IT project manager who bridges technology and teams, and as a full-stack web developer who brings imagination to life.
 
